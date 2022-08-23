@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Frontend Development**
 
+- 👨‍💻 All of my projects are available at [TBD](TBD)
+
 - 📫 How to reach me **sitoula@ualberta.ca**
 
 <h3 align="left">Connect with me:</h3>
