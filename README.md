@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Cloud Devlopment**
 
-- 👨‍💻 All of my projects are available at https://prathamsitoula.netlify.app
+- 👨‍💻 You can view my portfolio at https://prathamsitoula.netlify.app
 
 - 📫 How to reach me **sitoula@ualberta.ca**
 
