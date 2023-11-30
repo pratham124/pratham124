@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratham</h1>
-<h3 align="center">A Software Engineering student at University of Alberta</h3>
+<h3 align="center">A Software Engineering student at the University of Alberta</h3>
 
 - 🌱 I’m currently learning **Cloud Devlopment**
 
