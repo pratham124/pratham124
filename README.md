@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratham</h1>
 <h3 align="center">A Software Engineering student at the University of Alberta</h3>
 
-- 🌱 I’m currently learning **Cloud Devlopment**
-
-- 👨‍💻 You can view my portfolio at https://prathamsitoula.netlify.app
-
-- 📫 How to reach me **sitoula@ualberta.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
