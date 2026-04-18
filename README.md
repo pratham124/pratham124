@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Pratham</h1>
 <h3 align="center">A Software Engineering student at the University of Alberta</h3>
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pratham-sitoula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratham-sitoula" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/pratham-sitoula" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratham-sitoula" height="30" width="40" />
+  </a>
+  
+  <a href="https://pratham-sitoula.netlify.app" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="portfolio" height="30" width="40" />
+  </a>
 </p>
 
